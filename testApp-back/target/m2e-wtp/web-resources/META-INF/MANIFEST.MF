@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: javawebdevelopment
+Build-Jdk: 11.0.8
+Implementation-Title: Autobuska stanica
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.apache.maven.archetypes
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
